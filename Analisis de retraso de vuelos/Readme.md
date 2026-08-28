@@ -112,15 +112,4 @@ pip install pandas numpy matplotlib seaborn plotly
 ```
 
 ---
-
-## 📁 Estructura del Repositorio
-
-```text
-├── Airlines.csv              # Dataset operativo (539k+ registros)
-├── flight_delay_analysis.ipynb # Notebook Jupyter con el análisis exploratorio y gráficos
-├── README.md                 # Documentación principal del proyecto
-└── requirements.txt          # Dependencias del entorno Python
-```
-
----
 *Proyecto de Ciencia de Datos y Análisis Exploratorio de Datos Operativos.*
